@@ -2,7 +2,9 @@
 Chuck Sailer July 1, 2023
 
 <div align="center">
+<div style="width:200px; height:200px; border-radius:50%; overflow:hidden;">
     <img src="assets/python-math.png">
+</div>
 </div> 
 <p></p> 
 
