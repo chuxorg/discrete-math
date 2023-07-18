@@ -8,7 +8,7 @@ Chuck Sailer July 1, 2023
 </div> 
 <p></p> 
 
-I decided to add Discrete Mathematics to my (Self-Training Adgenda)[https://github.com/chuxorg/.github] because, well, I like 
+I decided to add Discrete Mathematics to my [Self-Training Adgenda](https://github.com/chuxorg/.github) because, well, I like 
 mathematics. 
 
 Python, as a programming language, provides several data types and structures that are frequently used in discrete mathematics. Here are some of the most important ones:
