@@ -8,7 +8,10 @@ Chuck Sailer July 1, 2023
 </div> 
 <p></p> 
 
-Discrete mathematics forms the basis of many data structures and algorithms. Python, as a programming language, provides several data types and structures that are frequently used in discrete mathematics. Here are some of the most important ones:
+I decided to add Discrete Mathematics to my (Self-Training Adgenda)[https://github.com/chuxorg/.github] because, well, I like 
+mathematics. 
+
+Python, as a programming language, provides several data types and structures that are frequently used in discrete mathematics. Here are some of the most important ones:
 
 1. [**Sets:**](sets/README.md) In Python, sets are used to store multiple items in a single variable, and they are one of Python's four built-in data types for collections, which also include List, Tuple, and Dictionary. In discrete mathematics, sets are used for a variety of purposes, such as to represent collections of objects. Python's set data type supports various set operations like union, intersection, difference, and symmetric difference.
 
